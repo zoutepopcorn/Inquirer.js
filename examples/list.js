@@ -5,6 +5,8 @@
 'use strict';
 var inquirer = require('..');
 
+console.log("");
+
 inquirer.prompt([
   {
     type: 'list',
